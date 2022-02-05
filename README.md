@@ -13,27 +13,29 @@
 
 ## ⬅️ before
 1. 고전적인 UI/UX
-<img width="640" alt="spoonacular 메인페이지" src="https://user-images.githubusercontent.com/76270892/152292706-b9376cd2-f5be-4f6d-afbe-4fff8562af1b.png">
-
 2. 반응형시 깨지는 레이아웃
 3. 작동하지 않는 기능
 4. 모달에서 키보드 트랩이 되지 않음
-<img width="640" alt="spoonacular 키보드 트랩 안됨" src="https://user-images.githubusercontent.com/76270892/152292509-84e63307-1f97-44d0-a340-0f1602cdb17e.gif">
-
 5. 시멘틱하지 않은 HTML 태그 사용
+
+| 고전적 UI/UX | 키보드 접근 불가 |
+|:---:|:---:|
+| ![spoonacular 메인페이지](https://user-images.githubusercontent.com/76270892/152292706-b9376cd2-f5be-4f6d-afbe-4fff8562af1b.png) | ![키보드 트랩 안됨](https://user-images.githubusercontent.com/76270892/152292509-84e63307-1f97-44d0-a340-0f1602cdb17e.gif) |
 
 <br>
 
 ## ➡️ After
 1. 모던한 UI/UX 및 사용자의 니즈를 파악한 설계
-<img width="640" alt="한스푼 메인페이지" src="https://user-images.githubusercontent.com/76270892/152292806-f2f68695-2697-4f64-8d1f-fd1b709cc6b7.png">
-<img width="640" alt="한스푼 검색결과 페이지" src="https://user-images.githubusercontent.com/76270892/152292776-9acdd14e-e1d5-4ee3-8739-1fc5c25b3960.png">
-
 2. 모바일부터 태블릿, 데스크탑까지 호환되는 반응형
 3. 모든 기능이 작동할 뿐 아니라 사용자에게 흥미를 유발할 기능을 추가
 4. 모달에서도 키보드 트랩이 가능하도록 구현
-<img width="640" alt="한스푼 키보드 트랩" src="https://user-images.githubusercontent.com/76270892/152292609-145ae5a3-72d8-4754-9792-b2ff23e09124.gif">
 5. 시멘틱한 태그를 사용하여 SEO 점수 향상 및 유지보수시 이해하기 쉬운 설계
+
+
+| 개선된 UI | Dialog 키보드 트랩 |
+|:---:|:---:|
+| ![한스푼 메인페이지](https://user-images.githubusercontent.com/76270892/152292806-f2f68695-2697-4f64-8d1f-fd1b709cc6b7.png) | ![키보드 트랩 처리](https://user-images.githubusercontent.com/76270892/152292609-145ae5a3-72d8-4754-9792-b2ff23e09124.gif) |
+
 
 ## 이외에도 노력한 점
 - 이미지 최적화(사이즈 변경, img -> background, preload)
