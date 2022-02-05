@@ -20,7 +20,7 @@
 
 | 고전적 UI/UX | 키보드 접근 불가 |
 |:---:|:---:|
-| ![spoonacular 메인페이지](https://user-images.githubusercontent.com/76270892/152292706-b9376cd2-f5be-4f6d-afbe-4fff8562af1b.png) | ![키보드 트랩 안됨](https://user-images.githubusercontent.com/76270892/152292509-84e63307-1f97-44d0-a340-0f1602cdb17e.gif) |
+| <img src="https://user-images.githubusercontent.com/76270892/152292706-b9376cd2-f5be-4f6d-afbe-4fff8562af1b.png" width="400"> | <img src="https://user-images.githubusercontent.com/76270892/152292509-84e63307-1f97-44d0-a340-0f1602cdb17e.gif" width="300"> |
 
 <br>
 
@@ -34,7 +34,7 @@
 
 | 개선된 UI | Dialog 키보드 트랩 |
 |:---:|:---:|
-| ![한스푼 메인페이지](https://user-images.githubusercontent.com/76270892/152292806-f2f68695-2697-4f64-8d1f-fd1b709cc6b7.png) | ![키보드 트랩 처리](https://user-images.githubusercontent.com/76270892/152292609-145ae5a3-72d8-4754-9792-b2ff23e09124.gif) |
+| <img src="https://user-images.githubusercontent.com/76270892/152292806-f2f68695-2697-4f64-8d1f-fd1b709cc6b7.png" width="400"> <br> <img src="https://user-images.githubusercontent.com/76270892/152292776-9acdd14e-e1d5-4ee3-8739-1fc5c25b3960.png" width="400"> | <img src="https://user-images.githubusercontent.com/76270892/152292609-145ae5a3-72d8-4754-9792-b2ff23e09124.gif" width="300"> |
 
 
 ## 이외에도 노력한 점
